@@ -1,6 +1,6 @@
-print("Hello, world.")
-print("Hello, new world.")
+__author__ = 730524864
 
 """My first program for COMP110"""
 
-_author_ = 730524864
+print("Hello, world.")
+print("Hello, new world.")
